@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DlxvwSXO7TM2MPBf6Ija5b0amBFQL6YYdQWKde+s/ztOtNfzPJ2wjM9cfvSAN5GmG7mzwIrhKQBXff/5CodTVg==",
+  "success": true,
+  "projectFilePath": "C:\\VSPROJ\\SocialNetwork\\SocialNetwork\\SocialNetwork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\solo levelling\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\solo levelling\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\solo levelling\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512",
+    "C:\\Users\\solo levelling\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\solo levelling\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\solo levelling\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\solo levelling\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
